@@ -16,3 +16,6 @@ h1, h2, h3, h4, h5, h6, .subheading{
 p.lead{
 	font-size:1.2rem;
 }
+span.text-primary{
+	font-size:70rem;
+}
