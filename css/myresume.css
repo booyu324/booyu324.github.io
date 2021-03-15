@@ -19,3 +19,6 @@ p.lead{
 span.text-primary{
 	font-size:70rem;
 }
+div.subheading.mb-5{
+	line-height:1.5;
+}
