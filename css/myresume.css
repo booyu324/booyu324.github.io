@@ -23,3 +23,8 @@ p.lead{
 .text-primary{
 	color: #004d37!important;
 }
+a {
+    color: #004d37;
+    text-decoration: none;
+    background-color: transparent;
+}
