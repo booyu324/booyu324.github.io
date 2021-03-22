@@ -28,3 +28,11 @@ a {
     text-decoration: none;
     background-color: transparent;
 }
+p {	color: #0f0a30;
+	background-color: #FFFAF0;
+	border-width: 2px;
+	border-style: solid;
+	border-color: #8FBC8F;
+	}
+
+
