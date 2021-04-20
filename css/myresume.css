@@ -34,4 +34,23 @@ p {	color: #0f0a30;
 	border-style: solid;
 	border-color: #8FBC8F;
 	}
+ul>li:hover {
+	background-color: #292100;
+}
+.jumbotron ul {
+	list-style-type: disc;
+}
+table {
+	width: 80%;    
+}
+td,th {
+	border:1px solid #2a5d44;
+	border-color:#2a5d44;
+}
+.tr table-primary:hover {
+    background-color: #90cf9d
+}
+
+
+
 
