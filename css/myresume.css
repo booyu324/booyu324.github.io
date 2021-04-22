@@ -34,6 +34,13 @@ p {	color: #0f0a30;
 	border-style: solid;
 	border-color: #8FBC8F;
 	}
+	
+p.scu {
+	background-color: inherit;
+	border-left-width: 0;
+	border-right-width: 0;
+}
+
 ul>li:hover {
 	background-color: #292100;
 }
@@ -45,12 +52,16 @@ table {
 }
 td,th {
 	border:1px solid #2a5d44;
-	border-color:#2a5d44;
+	border-color:#2a5d44!important;
 }
 .tr table-primary:hover {
     background-color: #90cf9d
 }
-
-
+p.gaosuwoba {
+	color: #0f0a30;
+	background-color: white;
+	border-width: 0px;
+	border-style: solid!important;
+}
 
 
