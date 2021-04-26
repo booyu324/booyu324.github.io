@@ -1,20 +1,20 @@
 body{
-	font-family:'Noto sans TC' sans-serif;
+	font-family:'Caveat';
 }
 
 h1, h2, h3, h4, h5, h6, .h1,.h2,.h3,.h4,.h5,.h6{
-	font-family:'Noto Sans TC', sans serif;
+	font-family:'Caveat', sans serif;
 }
 .subheading {
-    font-family: 'Noto Sans TC', sans-serif;
+    font-family: 'Caveat', sans-serif;
     font-weight: 1.2rem;
-    font-size: 1rem;
+    font-size: 1.5rem;
 }
 h1, h2, h3, h4, h5, h6, .subheading{
 	text-size:5rem;
 }
 p.lead{
-	font-size:1.2rem;
+	font-size:1.5rem;
 }
 .bg-primary{
 	background-color: #004d37!important;
@@ -63,5 +63,9 @@ p.gaosuwoba {
 	border-width: 0px;
 	border-style: solid!important;
 }
-
-
+p.interest{
+	font-size:2rem!important;
+}
+p.eng{
+	font-size:2rem!important;
+}
