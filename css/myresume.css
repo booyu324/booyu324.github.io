@@ -1,5 +1,4 @@
 body{
-<<<<<<< HEAD
 	font-family:'Abril Fatface' sans-serif;
 }
 
@@ -8,18 +7,8 @@ h1, h2, h3, h4, h5, h6, .h1,.h2,.h3,.h4,.h5,.h6{
 }
 .subheading {
     font-family: 'Abril Fatface', sans-serif;
-=======
-	font-family:'Caveat';
-}
-
-h1, h2, h3, h4, h5, h6, .h1,.h2,.h3,.h4,.h5,.h6{
-	font-family:'Caveat', sans serif;
-}
-.subheading {
-    font-family: 'Caveat', sans-serif;
->>>>>>> 536aceefcb934e6716a18eb4b63f8491ec395123
     font-weight: 1.2rem;
-    font-size: 1.5rem;
+    font-size: 1rem;
 }
 span.engname{
 	font-size: 4rem;
@@ -29,7 +18,7 @@ h1, h2, h3, h4, h5, h6, .subheading{
 	text-size:5rem;
 }
 p.lead{
-	font-size:1.5rem;
+	font-size:1.2rem;
 }
 .bg-primary{
 	background-color: #004d37!important;
@@ -78,9 +67,5 @@ p.gaosuwoba {
 	border-width: 0px;
 	border-style: solid!important;
 }
-p.interest{
-	font-size:2rem!important;
-}
-p.eng{
-	font-size:2rem!important;
-}
+
+
