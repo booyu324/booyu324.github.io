@@ -1,14 +1,18 @@
 body{
-	font-family:'Noto sans TC' sans-serif;
+	font-family:'Abril Fatface' sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6, .h1,.h2,.h3,.h4,.h5,.h6{
-	font-family:'Noto Sans TC', sans serif;
+	font-family:'Abril Fatface', sans serif;
 }
 .subheading {
-    font-family: 'Noto Sans TC', sans-serif;
+    font-family: 'Abril Fatface', sans-serif;
     font-weight: 1.2rem;
     font-size: 1rem;
+}
+span.engname{
+	font-size: 4rem;
+	color: #004d37!important;
 }
 h1, h2, h3, h4, h5, h6, .subheading{
 	text-size:5rem;
@@ -18,7 +22,7 @@ p.lead{
 }
 .bg-primary{
 	background-color: #004d37!important;
-	background-image:url(../assets/img/diagmonds.png);
+	background-image:url(../assets/img/skulls.png);
 }
 .text-primary{
 	color: #004d37!important;
